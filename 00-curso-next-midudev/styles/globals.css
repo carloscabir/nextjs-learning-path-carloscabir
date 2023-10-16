@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;  
+  font-family: sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background-color: #111;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 800px;
+}
+
+a {
+  text-decoration: none;
+  font-family: var(--font-roboto-mono);
+}
+
+hr {
+  margin: 2rem;
+}
+
+article {
+  margin: 2rem;
+}

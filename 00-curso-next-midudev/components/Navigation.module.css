@@ -1,0 +1,19 @@
+.header {
+  width: 90%;
+  margin: 2rem auto;
+  background-color: #212;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 2rem;
+  font-size: 105%;
+}
+
+.navigation a {
+  padding: 2rem;
+  color: #ddd;
+  text-decoration: underline gray;
+}
